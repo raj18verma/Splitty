@@ -4,19 +4,19 @@ import "./index.css"
 const initialFriends = [
   {
     id: 118836,
-    name: "Clark",
+    name: "Aisha",
     image: "https://i.pravatar.cc/48?u=118836",
     balance: -7,
   },
   {
     id: 933372,
-    name: "Sarah",
+    name: "Radha",
     image: "https://i.pravatar.cc/48?u=933372",
     balance: 20,
   },
   {
     id: 499476,
-    name: "Anthony",
+    name: "Raj",
     image: "https://i.pravatar.cc/48?u=499476",
     balance: 0,
   },
@@ -60,7 +60,6 @@ export default function App() {
   function handleSplitBill(bill, whoIsPaying) {
     const perPersonShare = bill / (friends.length + 1)
 
-    console.log(whoIsPaying)
 
     if (whoIsPaying == "user") {
       setFriends((friends) =>
