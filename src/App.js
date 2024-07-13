@@ -54,7 +54,7 @@ export default function App() {
   }
 
   function handleSplitBill(bill, paidByUser, whoIsPaying) {
-    const perPersonShare = bill / (friends.length + 1); // Including the user
+    const perPersonShare = bill / (friends.length + 1); 
 
     setFriends((friends) =>
       friends.map((friend) => {
