@@ -1,3 +1,5 @@
+![jsr2](https://github.com/raj18verma/Splitty/blob/master/Screenshot%202024-07-14%20163700.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
