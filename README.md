@@ -13,8 +13,9 @@ SPLITTY is a bill splitting calculator that helps you manage expenses with your 
 - **Split Bills:** Split a bill among friends, specifying who paid the bill, and the app will calculate each person's share.
 
 ## Technologies Used
-- **HTML:** For structuring the web page.
+
 - **React:** For building the user interface.
+- **HTML:** For structuring the web page.
 - **CSS:** For styling the application.
 - **JavaScript:** For application logic.
 - **Pravatar.cc:** For generating random user images.
