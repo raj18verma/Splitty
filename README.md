@@ -55,4 +55,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 Feel free to contribute, report bugs, and request features to help make SPLITTY even better!
 
 ---
-### Must Go Through the Live Working Demo of this Prototype:- https://drive.google.com/file/d/1q2ofwfVe5QGq_dL5M4I_HVgmOTRfZTON/view?usp=drivesdk
+### Must Go Through the Live Working Demo:- https://drive.google.com/file/d/1q2ofwfVe5QGq_dL5M4I_HVgmOTRfZTON/view?usp=drivesdk
